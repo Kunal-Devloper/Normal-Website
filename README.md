@@ -1,2 +1,2 @@
 # Normal-Website
-This IS Just A Normal Website
+This Is Just A Normal Website
